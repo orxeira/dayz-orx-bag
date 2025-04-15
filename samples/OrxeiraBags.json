@@ -1,0 +1,29 @@
+{
+    "bags": {
+        "OrxeiraBag_Green": {
+            "cargo": [10, 10],
+            "name": "Orxeira Bag",
+            "description": "This is a cool green bag designed for everyday use."
+        },
+        "OrxeiraBag_Blue": {
+            "cargo": [10, 10],
+            "name": "Orxeira Blue Bag",
+            "description": "A sleek blue bag with plenty of room for your items."
+        },
+        "OrxeiraBag_Desert": {
+            "cargo": [10, 20],
+            "name": "Desert Orxeira Bag",
+            "description": "A durable desert camo bag for the harshest environments."
+        },
+        "OrxeiraBag_Fall": {
+            "cargo": [10, 15],
+            "name": "Fall Orxeira Bag",
+            "description": "A durable fall camo bag for wearing while stepping on those crunchy leaves."
+        },
+        "OrxeiraBag_Pink": {
+            "cargo": [10, 10],
+            "name": "Orxeira Bag Pink",
+            "description": "A stylish pink bag for the fashionable adventurer."
+        }
+    }
+}
