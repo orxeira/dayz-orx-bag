@@ -1,5 +1,5 @@
 <h1>OrxBag</h1>
-The OrxBag is a **work in progress** mod for a backpack that can be customized by a server admin in size and slots.
+The OrxBag is a work in progress mod for a backpack that can be customized by a server admin in size and slots.
   
 In the current version the bag is a reskin of the Mountain backpack. There are 4 variants with 100 slots:  
   
